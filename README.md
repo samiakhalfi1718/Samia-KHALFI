@@ -4,7 +4,7 @@
 </p>
 <h1 align="center">
  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="50px">
-   <strong> Hi there,I'm Ghada Trabelsi welcome to my profile.</strong> 
+   <strong> Hi there,I'm Samia KHALFI welcome to my profile.</strong> 
 </h1>
 <h3 align="center">An Automation engineer from Tunisia</h3>
 <p align="center">
